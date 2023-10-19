@@ -1,0 +1,5 @@
+D:\MFU\Computer Programming\MFU_Projects\Sokoban.Clone\Sokoban.Clone\bin\Release\net6.0\app.publish\Sokoban.Clone.exe
+D:\MFU\Computer Programming\MFU_Projects\Sokoban.Clone\Sokoban.Clone\bin\Release\net6.0\app.publish\Sokoban.Clone.dll
+D:\MFU\Computer Programming\MFU_Projects\Sokoban.Clone\Sokoban.Clone\bin\Release\net6.0\app.publish\Sokoban.Clone.deps.json
+D:\MFU\Computer Programming\MFU_Projects\Sokoban.Clone\Sokoban.Clone\bin\Release\net6.0\app.publish\Sokoban.Clone.runtimeconfig.json
+D:\MFU\Computer Programming\MFU_Projects\Sokoban.Clone\Sokoban.Clone\bin\Release\net6.0\app.publish\Sokoban.Clone.pdb
