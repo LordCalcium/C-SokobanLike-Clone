@@ -52,7 +52,7 @@ namespace playSokoban
 
             // Place boxes and coins
             var rnd = new Random();
-            var boxesPosition = Enumerable.Range(0, 1).Select(_ => (X: rnd.Next(2, Cols - 2), Y: rnd.Next(2, Rows - 2))).ToArray();            
+            var boxesPosition = Enumerable.Range(0, 5).Select(_ => (X: rnd.Next(2, Cols - 2), Y: rnd.Next(2, Rows - 2))).ToArray();            
             foreach (var box in boxesPosition) { _grid[box.Y, box.X] = BoxChar; }
             var spotsLocation = Enumerable.Range(0, 5).Select(_ => (X: rnd.Next(1, Cols - 1), Y: rnd.Next(1, Rows - 1))).ToArray();
             foreach (var spot in  spotsLocation) { _grid[spot.Y, spot.X] = SpotChar; }
