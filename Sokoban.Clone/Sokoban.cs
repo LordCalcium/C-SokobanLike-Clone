@@ -24,7 +24,7 @@ namespace playSokoban
             Clear();
             while (Run()) 
             { }
-            WriteLine("\nT♦ Thank you for playing ☺");
+            WriteLine("\nTX Thank you for playing X");
         }
 
         public static bool Run()
@@ -65,7 +65,7 @@ namespace playSokoban
             while (true)
             {
                 Clear();
-                WriteLine($"\n♦  {_spots} spots left ♦");
+                WriteLine($"\nX  {_spots} spots left X");
 
                 // Update the grid
                 for (var i = 0; i < _grid.GetLength(0); i++)
