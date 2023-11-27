@@ -26,7 +26,7 @@ namespace StartMenu
 
                 if (i == SelectedIndex) //Check if SelectedIndex = CurrentIndex
                 {
-                    prefix = "♦";
+                    prefix = "->";
                     ForegroundColor = ConsoleColor.Black;
                     BackgroundColor = ConsoleColor.White;
                 }
